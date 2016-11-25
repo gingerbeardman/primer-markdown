@@ -168,14 +168,14 @@ Code snippets like `var foo = "bar";` can be shown inline.
 Also, `this should vertically align` ~~`with this`~~ ~~and this~~.
 
 Code can also be shown in a block element.
-````
+```
 var foo = "bar";
-````
+```
 
 Code can also use syntax highlighting.
-````Javascript
+```Javascript
 var foo = "bar";
-````
+```
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
